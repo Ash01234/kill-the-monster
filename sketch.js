@@ -17,7 +17,7 @@ var box20,box21,box22,box23,box24,box25,box26;
 var monster;
 
 function preload() {
-  bgImg = loadImage("images/GamingBackground.png");
+  bgImg = loadImage("GamingBackground.png");
 }
 
 function setup() {
